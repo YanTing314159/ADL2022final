@@ -1,0 +1,1 @@
+python simulator.py --split "test" --output "test_v2_hit_hard.jsonl" --num_chats 980 --model_name_or_path "/home/yantingye/ytye/HWs/ADL_final/runs/v2_hit_hard/" --disable_output_dialog
